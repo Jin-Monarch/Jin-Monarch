@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jin-Monarch
+- 👋 Hi, I’m @MikeG
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
